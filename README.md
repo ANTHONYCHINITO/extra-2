@@ -14,8 +14,8 @@ OBJETIVO ESPECIFICOS:
 - Conocer el funcionamiento o tener una idea de las funciones que ofrece APP INVENTOR 
 
  # MARCO TEORICO :
- 
-![Concept Map (2)](https://user-images.githubusercontent.com/93900233/156906876-0343deed-4899-4f1f-a161-8807bf3caaf7.jpg)
+
+![image](https://user-images.githubusercontent.com/93900233/156907162-61fb68f2-8906-4c09-bd2b-075aab11f6f4.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/156906862-1262c90b-d6d7-4446-bf25-34fb83af0703.png) 
 
