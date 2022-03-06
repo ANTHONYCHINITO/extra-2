@@ -55,6 +55,8 @@ OBJETIVO ESPECIFICOS:
 
  ![image](https://user-images.githubusercontent.com/93900233/156911752-d7382669-9df0-46a6-9253-872fad89ca8b.png)
  
+ ![image](https://user-images.githubusercontent.com/93900233/156912025-3ec1da8f-3a30-45db-856c-46950371716f.png)
+ 
  # PASO 6
  
  ![image](https://user-images.githubusercontent.com/93900233/156911909-23c9801c-855e-4652-b9a8-4b83610410c6.png)
