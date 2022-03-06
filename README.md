@@ -1,5 +1,5 @@
 # extra-2
-pin OI 
+# PINES IO
 
 # OBJETIVO GENERAL:
 
