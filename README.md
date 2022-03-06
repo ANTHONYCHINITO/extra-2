@@ -43,9 +43,11 @@ OBJETIVO ESPECIFICOS:
   
  # PASO 4
  
+![image](https://user-images.githubusercontent.com/93900233/156911183-77660c02-a655-4177-bd88-bbaa97ccdeb1.png)
  
  # PASO 5
  
+ ![image](https://user-images.githubusercontent.com/93900233/156911529-150b7e71-0e14-471e-a6fb-8c44718a5231.png)
  
  # PASO 6
  
