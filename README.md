@@ -22,6 +22,8 @@ OBJETIVO ESPECIFICOS:
 ![image](https://user-images.githubusercontent.com/93900233/156907127-9a4a7921-7a19-476a-a1b4-00334d9c677d.png)
 
  # PROCEDIMIENTO :
+ 
+ # PASO 1
 
 ![image](https://user-images.githubusercontent.com/93900233/156907425-b9cdb36f-ad7f-4665-b102-9ad54214d15b.png)
 
@@ -29,9 +31,19 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/156907656-abf85a4a-337c-47fd-99c1-47d948b060dd.png)
 
+ # PASO 2
+
 ![image](https://user-images.githubusercontent.com/93900233/156907977-1d85b216-b463-4ca0-a5b8-1b5369207050.png)
 
+![image](https://user-images.githubusercontent.com/93900233/156910723-9bcf038a-2118-43fd-9084-a01c3d9dfd9d.png)
 
+ # PASO 3
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 # VIDEO:
