@@ -49,8 +49,16 @@ OBJETIVO ESPECIFICOS:
  
  ![image](https://user-images.githubusercontent.com/93900233/156911529-150b7e71-0e14-471e-a6fb-8c44718a5231.png)
  
+ ![image](https://user-images.githubusercontent.com/93900233/156911591-729b8d04-1ce2-43a1-b656-f2e063ae1c61.png)
+
+![image](https://user-images.githubusercontent.com/93900233/156911650-538fd38d-f445-492a-86c5-d0e972af2eef.png)
+
+ ![image](https://user-images.githubusercontent.com/93900233/156911752-d7382669-9df0-46a6-9253-872fad89ca8b.png)
+ 
  # PASO 6
  
+ ![image](https://user-images.githubusercontent.com/93900233/156911909-23c9801c-855e-4652-b9a8-4b83610410c6.png)
+
  
  # PASO 7
  
