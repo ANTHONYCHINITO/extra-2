@@ -79,6 +79,14 @@ OBJETIVO ESPECIFICOS:
 ![image](https://user-images.githubusercontent.com/93900233/156913279-2c587764-352b-46bd-99e9-0167591dcbba.png)
 
 
+ # PASO 9
+
+![image](https://user-images.githubusercontent.com/93900233/156913343-de3bb0ac-f9e7-4ea9-a5a4-a1f0c30cbaed.png)
+
+![image](https://user-images.githubusercontent.com/93900233/156913552-63c8d43e-e359-4535-bc08-be1db522ae10.png)
+
+![image](https://user-images.githubusercontent.com/93900233/156913571-d4301744-57cd-4e39-9e36-c00a42e3e6bd.png)
+
 # VIDEO:
 
 # CONCLUSIONES:
