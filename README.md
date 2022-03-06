@@ -3,15 +3,15 @@ pin OI
 
 # OBJETIVO GENERAL:
 
-- Diseñar una APP de amplifiacdores operacionales mediante la plataforma APP INVENTOR para caclular volataje e salñida de cada amplificador operacional y ademas para familiarizarnos con la  programacion en bloques.
+- Aprender y explicar los pines de entrada y salida en un arduino 1 R3 mediante la aplicacion BLOCKLYDUINO Y una simulacion virtual en la plataforma tinkercad para eviatar complicaciones en una simulacion real 
 
 OBJETIVO ESPECIFICOS:
 
-- Conocer y manipular la plataforma APP INVENTOR para la creacion de una APP
+- Conocer y manipular la plataforma BLOCKLYDUINO para la programacion del circuito 
 
-- Saber como se calcula cada amplificador operacional para aplicar en nuestra APP
+- Saber el funcionamiento de la programcion en bloques en la plataforma  BLOCKLYDUINO
 
-- Conocer el funcionamiento o tener una idea de las funciones que ofrece APP INVENTOR 
+- Conocer como funcionan los pines de un arduino y como se ejecutan 
 
  # MARCO TEORICO :
 
@@ -91,9 +91,9 @@ OBJETIVO ESPECIFICOS:
 
 # CONCLUSIONES:
 
-- App  Inventor  es  una  manera  excelente  de  iniciarse  en  el entorno Android y en el desarrollo de aplicaciones móviles.
-- App Inventor permite hacer con relativa  facilidad  aplicaciones  que  requerirían  un  elevado esfuerzo de programación en Android.
-- La posibilidad de testear las aplicaciones en tiempo real en el dispositivo móvil es una gran ventaja para el desarrollador.
+-  BLOCKLYDUINO es  una  manera  excelente  para comezar a programar ya que te facilita la programacion en bloques y lo transcribe a programacion en texto 
+-  Se supo el funcionamiento tanto de un pin de salida  como de entrada dependiendo del circuito a ejecutar 
+-  Tanto BLOCKLYDUINO como TINKERCAD son herramientas que me sirvio para para corregir y evitar  errores antes deuna simulacion real.
 
 # BIBLIOGRAFIAS:
 
