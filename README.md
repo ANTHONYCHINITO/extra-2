@@ -39,10 +39,18 @@ OBJETIVO ESPECIFICOS:
 
  # PASO 3
  
+![image](https://user-images.githubusercontent.com/93900233/156910927-2194b965-a063-4039-b3ca-fa18f277e508.png)
+  
+ # PASO 4
  
  
+ # PASO 5
  
  
+ # PASO 6
+ 
+ 
+ # PASO 7
  
 
 
