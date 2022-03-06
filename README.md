@@ -64,7 +64,7 @@ OBJETIVO ESPECIFICOS:
  
  # PASO 7
  
- #CIRCUITO ARMADO
+ # CIRCUITO ARMADO
  
 ![image](https://user-images.githubusercontent.com/93900233/156912411-8340c336-2aad-48a1-9558-718918149802.png)
 
