@@ -15,8 +15,11 @@ OBJETIVO ESPECIFICOS:
 
  # MARCO TEORICO :
  
+![Concept Map (2)](https://user-images.githubusercontent.com/93900233/156906876-0343deed-4899-4f1f-a161-8807bf3caaf7.jpg)
 
+![image](https://user-images.githubusercontent.com/93900233/156906862-1262c90b-d6d7-4446-bf25-34fb83af0703.png) 
 
+![image](https://user-images.githubusercontent.com/93900233/156907127-9a4a7921-7a19-476a-a1b4-00334d9c677d.png)
 
 # VIDEO:
 
