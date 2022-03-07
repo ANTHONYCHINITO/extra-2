@@ -89,6 +89,8 @@ OBJETIVO ESPECIFICOS:
 
 # VIDEO:
 
+https://www.youtube.com/watch?v=3nS-rYlDycY
+
 # CONCLUSIONES:
 
 -  BLOCKLYDUINO es  una  manera  excelente  para comezar a programar ya que te facilita la programacion en bloques y lo transcribe a programacion en texto 
@@ -96,4 +98,15 @@ OBJETIVO ESPECIFICOS:
 -  Tanto BLOCKLYDUINO como TINKERCAD son herramientas que me sirvio para para corregir y evitar  errores antes deuna simulacion real.
 
 # BIBLIOGRAFIAS:
+
+- COMPU HOY. (s.f.). Obtenido de https://www.compuhoy.com/que-es-un-pin-io-digital/
+
+- FRAMEBOXXIN. (2022). Obtenido de https://frameboxxindore.com/es/apple/best-answer-what-is-an-io-pin.html
+
+- MAKERELECTRONICO. (19 de MARZO de 2019). Obtenido de https://www.makerelectronico.com/io-puertos-digitales-tris-port-lat-con-pic18f4550/
+
+- PROGRAMAMOS. (s.f.). Obtenido de https://programamos.es/entornos-graficos-de-programacion-con-
+arduino/#:~:text=Blockly%20es%20un%20entorno%20gr%C3%A1fico,con%20el%20IDE%20de%20Arduino.
+
+
 
