@@ -94,6 +94,35 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/157315529-a89f4513-ceb2-4994-8417-7b184f447ffb.png)
 
+# codigo 
+
+void setup()
+{
+  pinMode(8, INPUT);
+  pinMode(4, OUTPUT);
+  pinMode(10, INPUT);
+  pinMode(3, OUTPUT);
+}
+
+
+void loop()
+{
+  if (digitalRead(8) == HIGH) {
+    digitalWrite(4, HIGH);
+
+  } else {
+    digitalWrite(4, LOW);
+
+  }
+  if (digitalRead(10) == HIGH) {
+    digitalWrite(3, HIGH);
+
+  } else {
+    digitalWrite(3, LOW);
+
+  }
+
+}
 # VIDEO:
 
 https://www.youtube.com/watch?v=3nS-rYlDycY
