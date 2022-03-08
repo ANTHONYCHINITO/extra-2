@@ -88,6 +88,10 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/156913571-d4301744-57cd-4e39-9e36-c00a42e3e6bd.png)
 
+ # PASO 10
+ 
+![image](https://user-images.githubusercontent.com/93900233/157315369-856c8de6-cfbd-421a-83b0-50e1db00931b.png)
+
 # VIDEO:
 
 https://www.youtube.com/watch?v=3nS-rYlDycY
