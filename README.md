@@ -78,9 +78,6 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/156913274-82692975-d2e5-4f91-80c0-294af3425dfe.png)
 
-![image](https://user-images.githubusercontent.com/93900233/156913279-2c587764-352b-46bd-99e9-0167591dcbba.png)
-
-
  # PASO 9
 
 ![image](https://user-images.githubusercontent.com/93900233/156913343-de3bb0ac-f9e7-4ea9-a5a4-a1f0c30cbaed.png)
