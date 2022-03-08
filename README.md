@@ -92,6 +92,8 @@ OBJETIVO ESPECIFICOS:
  
 ![image](https://user-images.githubusercontent.com/93900233/157315369-856c8de6-cfbd-421a-83b0-50e1db00931b.png)
 
+![image](https://user-images.githubusercontent.com/93900233/157315529-a89f4513-ceb2-4994-8417-7b184f447ffb.png)
+
 # VIDEO:
 
 https://www.youtube.com/watch?v=3nS-rYlDycY
