@@ -21,6 +21,8 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/156907127-9a4a7921-7a19-476a-a1b4-00334d9c677d.png)
 
+![image](https://user-images.githubusercontent.com/93900233/157170956-c31867e7-bf70-4593-a85c-523a963bca40.png)
+
  # PROCEDIMIENTO :
  
  # PASO 1
