@@ -37,7 +37,7 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/156907977-1d85b216-b463-4ca0-a5b8-1b5369207050.png)
 
-![image](https://user-images.githubusercontent.com/93900233/157304524-25e5040f-ab1c-40d6-ba9e-9d3852f1b33a.png)
+![image](https://user-images.githubusercontent.com/93900233/157314410-ed632861-a669-4d5e-96b3-b0614f2ec41b.png)
 
  # PASO 3
  
